@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rawfidkshuvo
+- 👋 Hi, I’m Rawfid Kabir Shuvo
 - 👀 I’m interested in mobile app development.
 - 🌱 I’m currently learning cross platform app development
 - 📫 How to reach me : rawfid.shuvo@outlook.com
